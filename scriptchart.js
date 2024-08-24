@@ -86,7 +86,7 @@ let selectedAnswersByCategory = {};
 
 function updateChart(formId, selectedAnswers) {
     const correctAnswersMap = {
-        'examForm1': ['Centro de Inteligencia criminal CI3 24/7 de la Policía Nacional de Colombia en Bogotá'],
+        'examForm1': ["Centro de Inteligencia criminal CI3 24/7 de la Policía Nacional de Colombia en Bogotá"],
         'examForm2': ['Cámaras de Videovigilancia en ciudades', 'Medios de comunicación y redes sociales', 'Información de servicios de emergencia'],
         'examForm3': ['Activación de unidades de investigación DIJIN en Bogotá, Cali y Medellín.', 'Activación de Plan de Seguridad ante atentados terroristas', 'Cierre y controles en las principales vías de comunicación de las ciudades'],
         'examForm4': ['Portavoz de PNC interviene en TV, llama a la calma y la colaboración ciudadana','Portavoz de PNC da información de punto de contacto único para posibles víctimas', 'Portavoz de PNC informa sobre reinvicación de ELN pero por confirmar']
